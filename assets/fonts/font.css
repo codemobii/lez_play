@@ -1,0 +1,41 @@
+@font-face {
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: normal;
+src: local('SofiaProRegular'), url('SofiaProRegular.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: normal;
+src: local('SofiaProRegular'), url('SofiaProRegular.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Sofia Pro Bold';
+font-style: normal;
+font-weight: normal;
+src: local('SofiaProSemiBold'), url('SofiaProSemiBold.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Trade Gothic LT';
+font-style: normal;
+font-weight: normal;
+src: local('Trade Gothic LT'), url('trade-gothic-lt-1361519976.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Faktum Test Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Faktum Test Regular'), url('Rene Bieder - Faktum Test Regular.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Faktum Test Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Faktum Test Bold'), url('Rene Bieder - Faktum Test Bold.woff') format('woff');
+}
